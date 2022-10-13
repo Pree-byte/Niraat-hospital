@@ -123,8 +123,8 @@ header .container .nav-left{
 }
 
 header .container .logo-img{
-  width: 70px;
-  height: 60px;
+  width: 100px;
+  height: 70px;
 }
 
 header .container .logo{
@@ -472,6 +472,12 @@ header .fa-bars{
 
 .footer .credit span{
   color:var(--red);
+}
+
+.red{
+  color: #FF0000;
+  font-size: 3rem;
+  font-weight: 20px;
 }
 
 

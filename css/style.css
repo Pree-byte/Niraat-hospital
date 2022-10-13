@@ -206,7 +206,7 @@ header .fa-bars{
 }
 
 .about .content .box .points, .about .content .box .points a{
-  font-size: 1.7rem;
+  font-size: 2.2rem;
   color:#666;
 }
 
@@ -464,14 +464,14 @@ header .fa-bars{
 .footer .credit{
   color:#fff;
   width:80%;
-  margin:0;
-  padding:2rem 0;
+  margin:1;
+  padding:1rem 0;
   padding-bottom: 4rem;
   border-top: .1rem solid #ccc !important;
 }
 
 .footer .credit span{
-  color:var(--red);
+  color:var(--blue);
 }
 
 .red{
@@ -480,22 +480,18 @@ header .fa-bars{
   font-weight: 20px;
 }
 
+.redis{
+  color: #FF0000;
+  font-size: 4rem;
+  font-weight: 100px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.small{
+  font-family: cursive;
+  margin-right: auto;
+  font-weight: 50px;
+  font-size: 4rem;
+}
 
 
 
